@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "29768079933",
+    "project_id": "react-native-navigasi",
+    "storage_bucket": "react-native-navigasi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29768079933:android:dcecefbd1e974aed742854",
+        "android_client_info": {
+          "package_name": "com.react_native_navigasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29768079933-2pu73mvvh87uftrtpcm3kv7n1f4o27mu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj3DAdYJx0vJPbDLmwxdhwQwXqdn0peBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29768079933-2pu73mvvh87uftrtpcm3kv7n1f4o27mu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
